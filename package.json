@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.3.1"
+  },
+  "dependencies": {
+    "csv-reader": "^1.0.12"
+  }
+}

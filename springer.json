@@ -1,0 +1,1171 @@
+[
+  {
+    "name": "Journal of Computer Science and Technology",
+    "url": "https://www.springer.com/journal/11390",
+    "issn": "1860-4749",
+    "quartile": "Q2Q3",
+    "from": "1986",
+    "H":54,
+    "firstDecision": null,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "1.871",
+    "citeScore": 3.8,
+    "scopus": "https://www.scopus.com/sourceid/26132",
+    "lastYearAccepted": 91,
+    "ThisYearAccepted": 13,
+    "categories": [
+      {
+        "code": "1703",
+        "name": "Computer Science: Computational Theory and Mathematics",
+        "value": "50/165"
+      },
+      {
+        "code": "1706",
+        "name": "Computer Science: Computer Science Applications",
+        "value": "344/792"
+      },
+      {
+        "code": "1708",
+        "name": "Computer Science: Hardware and Architecture",
+        "value": "88/169"
+      },
+      {
+        "code": "1712",
+        "name": "Computer Science: Software",
+        "value": "212/404"
+      },
+      {
+        "code": "2614",
+        "name": "Mathematics: Theoretical Computer Science",
+        "value": "46/127"
+      }
+    ]
+  },
+  {
+    "name": "Circuits, Systems, and Signal Processing",
+    "url": "https://www.springer.com/journal/34",
+    "issn": "1531-5878",
+    "quartile": null,
+    "from": "1990",
+    "firstDecision": 2.857142857142857,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "2.311",
+    "citeScore": null,
+    "scopus": null,
+    "lastYearAccepted": null,
+    "ThisYearAccepted": null,
+    "categories": []
+  },
+  {
+    "name": "Iranian Journal of Science and Technology, Transactions of Electrical Engineering",
+    "url": "https://www.springer.com/journal/40998",
+    "issn": "2364-1827",
+    "quartile": null,
+    "from": "1990",
+    "firstDecision": 5.142857142857143,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "1.890",
+    "citeScore": null,
+    "scopus": null,
+    "lastYearAccepted": null,
+    "ThisYearAccepted": null,
+    "categories": []
+  },
+  {
+    "name": "Data Mining and Knowledge Discovery",
+    "url": "https://www.springer.com/journal/10618",
+    "issn": "1573-756X",
+    "quartile": null,
+    "from": "1997",
+    "firstDecision": 4.142857142857143,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "5.406",
+    "citeScore": 11.8,
+    "scopus": "https://www.scopus.com/sourceid/13579",
+    "lastYearAccepted": 80,
+    "ThisYearAccepted": 62,
+    "categories": [
+      {
+        "code": "1705",
+        "name": "Computer Science: Computer Networks and Communications",
+        "value": "24/379"
+      },
+      {
+        "code": "1706",
+        "name": "Computer Science: Computer Science Applications",
+        "value": "50/792"
+      },
+      {
+        "code": "1710",
+        "name": "Computer Science: Information Systems",
+        "value": "29/379"
+      }
+    ]
+  },
+  {
+    "name": "AI and Society",
+    "url": "https://www.springer.com/journal/146",
+    "issn": "1435-5655",
+    "quartile": null,
+    "from": "1998",
+    "firstDecision": 1.4285714285714286,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": 5.3,
+    "scopus": "https://www.scopus.com/sourceid/23616",
+    "lastYearAccepted": 291,
+    "ThisYearAccepted": 175,
+    "categories": [
+      {
+        "code": "1211",
+        "name": "Arts and Humanities: Philosophy",
+        "value": "18/762"
+      },
+      {
+        "code": "1702",
+        "name": "Computer Science: Artificial Intelligence",
+        "value": "111/301"
+      },
+      {
+        "code": "1709",
+        "name": "Computer Science: Human-Computer Interaction",
+        "value": "55/135"
+      }
+    ]
+  },
+  {
+    "name": "Canadian Journal of Science, Mathematics and Technology Education",
+    "url": "https://www.springer.com/journal/42330",
+    "issn": "1942-4051",
+    "quartile": null,
+    "from": "2001",
+    "firstDecision": 4.285714285714286,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": 3.6,
+    "scopus": "https://www.scopus.com/sourceid/19700190347",
+    "lastYearAccepted": 72,
+    "ThisYearAccepted": 12,
+    "categories": [
+      {
+        "code": "3304",
+        "name": "Social Sciences: Education",
+        "value": "371/1469"
+      }
+    ]
+  },
+  {
+    "name": "Cluster Computing",
+    "url": "https://www.springer.com/journal/10586",
+    "issn": "1573-7543",
+    "quartile": null,
+    "from": "1990",
+    "firstDecision": 6.714285714285714,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "2.303",
+    "citeScore": null,
+    "scopus": null,
+    "lastYearAccepted": null,
+    "ThisYearAccepted": null,
+    "categories": []
+  },
+  {
+    "name": "Complex and Intelligent Systems",
+    "url": "https://www.springer.com/journal/40747",
+    "issn": "2198-6053",
+    "quartile": null,
+    "from": "2019",
+    "firstDecision": 4,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "6.700",
+    "citeScore": 7.9,
+    "scopus": "https://www.scopus.com/sourceid/21101095931",
+    "lastYearAccepted": 392,
+    "ThisYearAccepted": 281,
+    "categories": [
+      {
+        "code": "1702",
+        "name": "Computer Science: Artificial Intelligence",
+        "value": "72/301"
+      },
+      {
+        "code": "1710",
+        "name": "Computer Science: Information Systems",
+        "value": "72/379"
+      },
+      {
+        "code": "2201",
+        "name": "Engineering: Engineering (miscellaneous)",
+        "value": "18/151"
+      },
+      {
+        "code": "2605",
+        "name": "Mathematics: Computational Mathematics",
+        "value": "11/172"
+      }
+    ]
+  },
+  {
+    "name": "Computational Visual Media",
+    "url": "https://www.springer.com/journal/41095",
+    "issn": "2096-0662",
+    "quartile": null,
+    "from": "2016",
+    "firstDecision": 1.4285714285714286,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "4.127",
+    "citeScore": 11.1,
+    "scopus": "https://www.scopus.com/sourceid/21100869486",
+    "lastYearAccepted": 40,
+    "ThisYearAccepted": 41,
+    "categories": [
+      {
+        "code": "1702",
+        "name": "Computer Science: Artificial Intelligence",
+        "value": "40/301"
+      },
+      {
+        "code": "1704",
+        "name": "Computer Science: Computer Graphics and Computer-Aided Design",
+        "value": "8/102"
+      },
+      {
+        "code": "1707",
+        "name": "Computer Science: Computer Vision and Pattern Recognition",
+        "value": "12/100"
+      }
+    ]
+  },
+  {
+    "name": "Computational Geosciences",
+    "url": "https://www.springer.com/journal/10596",
+    "issn": "1573-1499",
+    "quartile": null,
+    "from": "1990",
+    "firstDecision": 13.142857142857142,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "2.948",
+    "citeScore": null,
+    "scopus": null,
+    "lastYearAccepted": null,
+    "ThisYearAccepted": null,
+    "categories": []
+  },
+  {
+    "name": "Computational Management Science",
+    "url": "https://www.springer.com/journal/10287",
+    "issn": "1619-6988",
+    "quartile": null,
+    "from": "2005",
+    "firstDecision": 9.571428571428571,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": 2.1,
+    "scopus": "https://www.scopus.com/sourceid/144815",
+    "lastYearAccepted": 27,
+    "ThisYearAccepted": 28,
+    "categories": [
+      {
+        "code": "1401",
+        "name": "Business, Management and Accounting: Business, Management and Accounting (miscellaneous)",
+        "value": "76/160"
+      },
+      {
+        "code": "1404",
+        "name": "Business, Management and Accounting: Management Information Systems",
+        "value": "77/127"
+      },
+      {
+        "code": "1803",
+        "name": "Decision Sciences: Management Science and Operations Research",
+        "value": "123/198"
+      },
+      {
+        "code": "1804",
+        "name": "Decision Sciences: Statistics, Probability and Uncertainty",
+        "value": "77/160"
+      }
+    ]
+  },
+  {
+    "name": "Cryptography and Communications",
+    "url": "https://www.springer.com/journal/12095",
+    "issn": "1936-2455",
+    "quartile": null,
+    "from": "2009",
+    "firstDecision": 7.285714285714286,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "1.376",
+    "citeScore": 2.7,
+    "scopus": "https://www.scopus.com/sourceid/19600156814",
+    "lastYearAccepted": 77,
+    "ThisYearAccepted": 60,
+    "categories": [
+      {
+        "code": "1703",
+        "name": "Computer Science: Computational Theory and Mathematics",
+        "value": "80/165"
+      },
+      {
+        "code": "1705",
+        "name": "Computer Science: Computer Networks and Communications",
+        "value": "219/379"
+      },
+      {
+        "code": "2604",
+        "name": "Mathematics: Applied Mathematics",
+        "value": "242/609"
+      }
+    ]
+  },
+  {
+    "name": "Computational and Applied Mathematics",
+    "url": "https://www.springer.com/journal/40314",
+    "issn": "1807-0302",
+    "quartile": null,
+    "from": "2003",
+    "firstDecision": 5.142857142857143,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "2.998",
+    "citeScore": 3.9,
+    "scopus": "https://www.scopus.com/sourceid/5000153703",
+    "lastYearAccepted": 424,
+    "ThisYearAccepted": 211,
+    "categories": [
+      {
+        "code": "2604",
+        "name": "Mathematics: Applied Mathematics",
+        "value": "133/609"
+      },
+      {
+        "code": "2605",
+        "name": "Mathematics: Computational Mathematics",
+        "value": "50/172"
+      }
+    ]
+  },
+  {
+    "name": "Computing (Vienna/New York)",
+    "url": "https://www.springer.com/journal/607",
+    "issn": "1436-5057",
+    "quartile": null,
+    "from": "1966",
+    "firstDecision": 9.571428571428571,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "2.420",
+    "citeScore": 6.4,
+    "scopus": "https://www.scopus.com/sourceid/24407",
+    "lastYearAccepted": 120,
+    "ThisYearAccepted": 101,
+    "categories": [
+      {
+        "code": "1703",
+        "name": "Computer Science: Computational Theory and Mathematics",
+        "value": "21/165"
+      },
+      {
+        "code": "1706",
+        "name": "Computer Science: Computer Science Applications",
+        "value": "187/792"
+      },
+      {
+        "code": "1712",
+        "name": "Computer Science: Software",
+        "value": "114/404"
+      },
+      {
+        "code": "2605",
+        "name": "Mathematics: Computational Mathematics",
+        "value": "17/172"
+      },
+      {
+        "code": "2612",
+        "name": "Mathematics: Numerical Analysis",
+        "value": "8/85"
+      },
+      {
+        "code": "2614",
+        "name": "Mathematics: Theoretical Computer Science",
+        "value": "19/127"
+      }
+    ]
+  },
+  {
+    "name": "Data Science for Transportation",
+    "url": "https://www.springer.com/journal/42421",
+    "issn": "2948-1368",
+    "quartile": null,
+    "from": "1990",
+    "firstDecision": 8.571428571428571,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": null,
+    "scopus": null,
+    "lastYearAccepted": null,
+    "ThisYearAccepted": null,
+    "categories": []
+  },
+  {
+    "name": "Experimental Astronomy",
+    "url": "https://www.springer.com/journal/10686",
+    "issn": "1572-9508",
+    "quartile": null,
+    "from": "2008",
+    "firstDecision": 16.857142857142858,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "2.155",
+    "citeScore": 3.6,
+    "scopus": "https://www.scopus.com/sourceid/27195",
+    "lastYearAccepted": 92,
+    "ThisYearAccepted": 41,
+    "categories": [
+      {
+        "code": "1912",
+        "name": "Earth and Planetary Sciences: Space and Planetary Science",
+        "value": "50/101"
+      },
+      {
+        "code": "3103",
+        "name": "Physics and Astronomy: Astronomy and Astrophysics",
+        "value": "37/91"
+      }
+    ]
+  },
+  {
+    "name": "Experimental Brain Research",
+    "url": "https://www.springer.com/journal/221",
+    "issn": "1432-1106",
+    "quartile": null,
+    "from": "1966",
+    "firstDecision": 2.5714285714285716,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "2.064",
+    "citeScore": 3.5,
+    "scopus": "https://www.scopus.com/sourceid/15585",
+    "lastYearAccepted": 260,
+    "ThisYearAccepted": 145,
+    "categories": [
+      {
+        "code": "2800",
+        "name": "Neuroscience: General Neuroscience",
+        "value": "68/110"
+      }
+    ]
+  },
+  {
+    "name": "Finance and Stochastics",
+    "url": "https://www.springer.com/journal/780",
+    "issn": "1432-1122",
+    "quartile": null,
+    "from": "2004",
+    "firstDecision": null,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "2.095",
+    "citeScore": 3.4,
+    "scopus": "https://www.scopus.com/sourceid/15495",
+    "lastYearAccepted": 27,
+    "ThisYearAccepted": 15,
+    "categories": [
+      {
+        "code": "1804",
+        "name": "Decision Sciences: Statistics, Probability and Uncertainty",
+        "value": "40/160"
+      },
+      {
+        "code": "2003",
+        "name": "Economics, Econometrics and Finance: Finance",
+        "value": "97/302"
+      },
+      {
+        "code": "2613",
+        "name": "Mathematics: Statistics and Probability",
+        "value": "56/262"
+      }
+    ]
+  },
+  {
+    "name": "Financial Markets and Portfolio Management",
+    "url": "https://www.springer.com/journal/11408",
+    "issn": "2373-8529",
+    "quartile": null,
+    "from": "2006",
+    "firstDecision": 1.5714285714285714,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": 3,
+    "scopus": "https://www.scopus.com/sourceid/4800152317",
+    "lastYearAccepted": 19,
+    "ThisYearAccepted": 8,
+    "categories": [
+      {
+        "code": "1402",
+        "name": "Business, Management and Accounting: Accounting",
+        "value": "74/168"
+      },
+      {
+        "code": "2003",
+        "name": "Economics, Econometrics and Finance: Finance",
+        "value": "109/302"
+      }
+    ]
+  },
+  {
+    "name": "International Journal of Applied and Computational Mathematics",
+    "url": "https://www.springer.com/journal/40819",
+    "issn": "2199-5796",
+    "quartile": null,
+    "from": "2015",
+    "firstDecision": 5.142857142857143,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": 2.7,
+    "scopus": "https://www.scopus.com/sourceid/21100899436",
+    "lastYearAccepted": 279,
+    "ThisYearAccepted": 47,
+    "categories": [
+      {
+        "code": "2604",
+        "name": "Mathematics: Applied Mathematics",
+        "value": "235/609"
+      },
+      {
+        "code": "2605",
+        "name": "Mathematics: Computational Mathematics",
+        "value": "79/172"
+      }
+    ]
+  },
+  {
+    "name": "International Journal of Artificial Intelligence in Education",
+    "url": "https://www.springer.com/journal/40593",
+    "issn": "1560-4306",
+    "quartile": null,
+    "from": "2003",
+    "firstDecision": 2,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": 8.2,
+    "scopus": "https://www.scopus.com/sourceid/19600156811",
+    "lastYearAccepted": 69,
+    "ThisYearAccepted": 20,
+    "categories": [
+      {
+        "code": "1703",
+        "name": "Computer Science: Computational Theory and Mathematics",
+        "value": "14/165"
+      },
+      {
+        "code": "3304",
+        "name": "Social Sciences: Education",
+        "value": "59/1469"
+      }
+    ]
+  },
+  {
+    "name": "International Journal of Fuzzy Systems",
+    "url": "https://www.springer.com/journal/40815",
+    "issn": "2199-3211",
+    "quartile": null,
+    "from": "1990",
+    "firstDecision": 5,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "4.085",
+    "citeScore": null,
+    "scopus": null,
+    "lastYearAccepted": null,
+    "ThisYearAccepted": null,
+    "categories": []
+  },
+  {
+    "name": "Iran Journal of Computer Science",
+    "url": "https://www.springer.com/journal/42044",
+    "issn": "2520-8446",
+    "quartile": null,
+    "from": "1990",
+    "firstDecision": 4.857142857142857,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": null,
+    "scopus": null,
+    "lastYearAccepted": null,
+    "ThisYearAccepted": null,
+    "categories": []
+  },
+  {
+    "name": "International Journal of Speech Technology",
+    "url": "https://www.springer.com/journal/10772",
+    "issn": "1572-8110",
+    "quartile": null,
+    "from": "1997",
+    "firstDecision": 8.714285714285714,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": 4.2,
+    "scopus": "https://www.scopus.com/sourceid/26802",
+    "lastYearAccepted": 116,
+    "ThisYearAccepted": 27,
+    "categories": [
+      {
+        "code": "1203",
+        "name": "Arts and Humanities: Language and Linguistics",
+        "value": "56/1001"
+      },
+      {
+        "code": "1707",
+        "name": "Computer Science: Computer Vision and Pattern Recognition",
+        "value": "46/100"
+      },
+      {
+        "code": "1709",
+        "name": "Computer Science: Human-Computer Interaction",
+        "value": "74/135"
+      },
+      {
+        "code": "1712",
+        "name": "Computer Science: Software",
+        "value": "190/404"
+      },
+      {
+        "code": "3310",
+        "name": "Social Sciences: Linguistics and Language",
+        "value": "66/1078"
+      }
+    ]
+  },
+  {
+    "name": "Iranian Journal of Science and Technology, Transactions of Electrical Engineering",
+    "url": "https://www.springer.com/journal/40998/how-to-publish-with-us",
+    "issn": "",
+    "quartile": null,
+    "from": "1990",
+    "firstDecision": null,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": null,
+    "scopus": null,
+    "lastYearAccepted": null,
+    "ThisYearAccepted": null,
+    "categories": []
+  },
+  {
+    "name": "SN Computer Science",
+    "url": "https://www.springer.com/journal/42979",
+    "issn": "2661-8907",
+    "quartile": null,
+    "from": "2020",
+    "firstDecision": 8.714285714285714,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": 4.3,
+    "scopus": "https://www.scopus.com/sourceid/21101083109",
+    "lastYearAccepted": 335,
+    "ThisYearAccepted": 437,
+    "categories": [
+      {
+        "code": "1700",
+        "name": "Computer Science: General Computer Science",
+        "value": "69/233"
+      },
+      {
+        "code": "1702",
+        "name": "Computer Science: Artificial Intelligence",
+        "value": "143/301"
+      },
+      {
+        "code": "1703",
+        "name": "Computer Science: Computational Theory and Mathematics",
+        "value": "38/165"
+      },
+      {
+        "code": "1704",
+        "name": "Computer Science: Computer Graphics and Computer-Aided Design",
+        "value": "32/102"
+      },
+      {
+        "code": "1705",
+        "name": "Computer Science: Computer Networks and Communications",
+        "value": "148/379"
+      },
+      {
+        "code": "1706",
+        "name": "Computer Science: Computer Science Applications",
+        "value": "301/792"
+      }
+    ]
+  },
+  {
+    "name": "Journal of Real Estate Finance and Economics",
+    "url": "https://www.springer.com/journal/11146",
+    "issn": "1573-045X",
+    "quartile": null,
+    "from": "1988",
+    "firstDecision": 1,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "1.480",
+    "citeScore": 2.8,
+    "scopus": "https://www.scopus.com/sourceid/23582",
+    "lastYearAccepted": 97,
+    "ThisYearAccepted": 52,
+    "categories": [
+      {
+        "code": "1402",
+        "name": "Business, Management and Accounting: Accounting",
+        "value": "82/168"
+      },
+      {
+        "code": "2002",
+        "name": "Economics, Econometrics and Finance: Economics and Econometrics",
+        "value": "286/705"
+      },
+      {
+        "code": "2003",
+        "name": "Economics, Econometrics and Finance: Finance",
+        "value": "120/302"
+      },
+      {
+        "code": "3322",
+        "name": "Social Sciences: Urban Studies",
+        "value": "80/261"
+      }
+    ]
+  },
+  {
+    "name": "Signal, Image and Video Processing",
+    "url": "https://www.springer.com/journal/11760",
+    "issn": "1863-1711",
+    "quartile": null,
+    "from": "2007",
+    "firstDecision": 12.428571428571429,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "1.583",
+    "citeScore": 3.8,
+    "scopus": "https://www.scopus.com/sourceid/6200180165",
+    "lastYearAccepted": 259,
+    "ThisYearAccepted": 417,
+    "categories": [
+      {
+        "code": "1711",
+        "name": "Computer Science: Signal Processing",
+        "value": "58/122"
+      },
+      {
+        "code": "2208",
+        "name": "Engineering: Electrical and Electronic Engineering",
+        "value": "320/738"
+      }
+    ]
+  },
+  {
+    "name": "Machine Vision and Applications",
+    "url": "https://www.springer.com/journal/138",
+    "issn": "1432-1769",
+    "quartile": null,
+    "from": "1988",
+    "firstDecision": 6.285714285714286,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "2.983",
+    "citeScore": 5.7,
+    "scopus": "https://www.scopus.com/sourceid/12984",
+    "lastYearAccepted": 97,
+    "ThisYearAccepted": 59,
+    "categories": [
+      {
+        "code": "1706",
+        "name": "Computer Science: Computer Science Applications",
+        "value": "222/792"
+      },
+      {
+        "code": "1707",
+        "name": "Computer Science: Computer Vision and Pattern Recognition",
+        "value": "31/100"
+      },
+      {
+        "code": "1708",
+        "name": "Computer Science: Hardware and Architecture",
+        "value": "53/169"
+      },
+      {
+        "code": "1712",
+        "name": "Computer Science: Software",
+        "value": "133/404"
+      }
+    ]
+  },
+  {
+    "name": "Journal of Risk and Uncertainty",
+    "url": "https://www.springer.com/journal/11166",
+    "issn": "1573-0476",
+    "quartile": null,
+    "from": "1988",
+    "firstDecision": 2.857142857142857,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "3.977",
+    "citeScore": 4.8,
+    "scopus": "https://www.scopus.com/sourceid/29011",
+    "lastYearAccepted": 24,
+    "ThisYearAccepted": 19,
+    "categories": [
+      {
+        "code": "1402",
+        "name": "Business, Management and Accounting: Accounting",
+        "value": "32/168"
+      },
+      {
+        "code": "2002",
+        "name": "Economics, Econometrics and Finance: Economics and Econometrics",
+        "value": "160/705"
+      },
+      {
+        "code": "2003",
+        "name": "Economics, Econometrics and Finance: Finance",
+        "value": "59/302"
+      }
+    ]
+  },
+  {
+    "name": "Journal of Computer Virology and Hacking Techniques",
+    "url": "https://www.springer.com/journal/11416",
+    "issn": "2263-8733",
+    "quartile": null,
+    "from": "2014",
+    "firstDecision": 10.142857142857142,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": 5.8,
+    "scopus": "https://www.scopus.com/sourceid/21100405702",
+    "lastYearAccepted": 48,
+    "ThisYearAccepted": 41,
+    "categories": []
+  },
+  {
+    "name": "Journal of Computational Social Science",
+    "url": "https://www.springer.com/journal/42001",
+    "issn": "2432-2725",
+    "quartile": null,
+    "from": "2018",
+    "firstDecision": 7.428571428571429,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": 4.5,
+    "scopus": "https://www.scopus.com/sourceid/21101078232",
+    "lastYearAccepted": 71,
+    "ThisYearAccepted": 25,
+    "categories": [
+      {
+        "code": "1702",
+        "name": "Computer Science: Artificial Intelligence",
+        "value": "140/301"
+      },
+      {
+        "code": "3313",
+        "name": "Social Sciences: Transportation",
+        "value": "51/128"
+      }
+    ]
+  },
+  {
+    "name": "Journal of Cryptographic Engineering",
+    "url": "https://www.springer.com/journal/13389",
+    "issn": "2190-8516",
+    "quartile": null,
+    "from": "2011",
+    "firstDecision": 2.5714285714285716,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "1.585",
+    "citeScore": 4.6,
+    "scopus": "https://www.scopus.com/sourceid/21100266502",
+    "lastYearAccepted": 29,
+    "ThisYearAccepted": 29,
+    "categories": [
+      {
+        "code": "1705",
+        "name": "Computer Science: Computer Networks and Communications",
+        "value": "140/379"
+      },
+      {
+        "code": "1712",
+        "name": "Computer Science: Software",
+        "value": "177/404"
+      }
+    ]
+  },
+  {
+    "name": "Journal of Economics/ Zeitschrift für Nationalokonomie",
+    "url": "https://www.springer.com/journal/712",
+    "issn": "1617-7134",
+    "quartile": null,
+    "from": "1948",
+    "firstDecision": 0.14285714285714285,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "1.889",
+    "citeScore": 2,
+    "scopus": "https://www.scopus.com/sourceid/24356",
+    "lastYearAccepted": 32,
+    "ThisYearAccepted": 26,
+    "categories": [
+      {
+        "code": "1400",
+        "name": "Business, Management and Accounting: General Business, Management and Accounting",
+        "value": "119/214"
+      },
+      {
+        "code": "2002",
+        "name": "Economics, Econometrics and Finance: Economics and Econometrics",
+        "value": "370/705"
+      }
+    ]
+  },
+  {
+    "name": "Journal of Economic Growth",
+    "url": "https://www.springer.com/journal/10887",
+    "issn": "1573-7020",
+    "quartile": null,
+    "from": "1996",
+    "firstDecision": 8.571428571428571,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "3.917",
+    "citeScore": 4.7,
+    "scopus": "https://www.scopus.com/sourceid/28978",
+    "lastYearAccepted": 15,
+    "ThisYearAccepted": 15,
+    "categories": [
+      {
+        "code": "2002",
+        "name": "Economics, Econometrics and Finance: Economics and Econometrics",
+        "value": "164/705"
+      }
+    ]
+  },
+  {
+    "name": "Journal of Economics and Finance",
+    "url": "https://www.springer.com/journal/12197",
+    "issn": "1938-9744",
+    "quartile": null,
+    "from": "1992",
+    "firstDecision": 2.4285714285714284,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": null,
+    "citeScore": 2,
+    "scopus": "https://www.scopus.com/sourceid/12100157208",
+    "lastYearAccepted": 40,
+    "ThisYearAccepted": 38,
+    "categories": [
+      {
+        "code": "2002",
+        "name": "Economics, Econometrics and Finance: Economics and Econometrics",
+        "value": "372/705"
+      },
+      {
+        "code": "2003",
+        "name": "Economics, Econometrics and Finance: Finance",
+        "value": "160/302"
+      }
+    ]
+  },
+  {
+    "name": "Soft Computing",
+    "url": "https://www.springer.com/journal/500",
+    "issn": "1433-7479",
+    "quartile": null,
+    "from": "2003",
+    "firstDecision": 14.571428571428571,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "3.732",
+    "citeScore": 7.7,
+    "scopus": "https://www.scopus.com/sourceid/28554",
+    "lastYearAccepted": 946,
+    "ThisYearAccepted": 1178,
+    "categories": [
+      {
+        "code": "1712",
+        "name": "Computer Science: Software",
+        "value": "82/404"
+      },
+      {
+        "code": "2608",
+        "name": "Mathematics: Geometry and Topology",
+        "value": "1/103"
+      },
+      {
+        "code": "2614",
+        "name": "Mathematics: Theoretical Computer Science",
+        "value": "14/127"
+      }
+    ]
+  },
+  {
+    "name": "Visual Computer",
+    "url": "https://www.springer.com/journal/371",
+    "issn": "1432-2315",
+    "quartile": null,
+    "from": "1985",
+    "firstDecision": 2.142857142857143,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "2.835",
+    "citeScore": 4.9,
+    "scopus": "https://www.scopus.com/sourceid/26146",
+    "lastYearAccepted": 517,
+    "ThisYearAccepted": 306,
+    "categories": [
+      {
+        "code": "1704",
+        "name": "Computer Science: Computer Graphics and Computer-Aided Design",
+        "value": "27/102"
+      },
+      {
+        "code": "1707",
+        "name": "Computer Science: Computer Vision and Pattern Recognition",
+        "value": "38/100"
+      },
+      {
+        "code": "1712",
+        "name": "Computer Science: Software",
+        "value": "162/404"
+      }
+    ]
+  },
+  {
+    "name": "Multimedia Tools and Applications",
+    "url": "https://www.springer.com/journal/11042",
+    "issn": "1573-7721",
+    "quartile": null,
+    "from": "1990",
+    "firstDecision": 14.142857142857142,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "2.577",
+    "citeScore": null,
+    "scopus": null,
+    "lastYearAccepted": null,
+    "ThisYearAccepted": null,
+    "categories": []
+  },
+  {
+    "name": "Applied Intelligence",
+    "url": "https://www.springer.com/journal/10489",
+    "issn": "1573-7497",
+    "quartile": null,
+    "from": "1991",
+    "firstDecision": 2.7142857142857144,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "5.019",
+    "citeScore": 6.9,
+    "scopus": "https://www.scopus.com/sourceid/23674",
+    "lastYearAccepted": 1110,
+    "ThisYearAccepted": 1179,
+    "categories": [
+      {
+        "code": "1702",
+        "name": "Computer Science: Artificial Intelligence",
+        "value": "86/301"
+      }
+    ]
+  },
+  {
+    "name": "Neural Computing and Applications",
+    "url": "https://www.springer.com/journal/521",
+    "issn": "1433-3058",
+    "quartile": null,
+    "from": "1993",
+    "firstDecision": 6.857142857142857,
+    "finalDecision": null,
+    "ReviewTime": null,
+    "mendeleyDatasetUrl": null,
+    "impactFactor": "5.102",
+    "citeScore": 10,
+    "scopus": "https://www.scopus.com/sourceid/24800",
+    "lastYearAccepted": 1416,
+    "ThisYearAccepted": 1134,
+    "categories": [
+      {
+        "code": "1702",
+        "name": "Computer Science: Artificial Intelligence",
+        "value": "48/301"
+      },
+      {
+        "code": "1712",
+        "name": "Computer Science: Software",
+        "value": "47/404"
+      }
+    ]
+  }
+]
